@@ -1,0 +1,7 @@
+perbaikan cms :
+1. simpan article
+2. cek duplikat
+3. pembayran
+
+hasil:
+semua berhasil, tapi ada bug di bagian artikel kilau indonesia
